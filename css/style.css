@@ -1,0 +1,30 @@
+.cat{
+  width: 21%;
+  float: left;
+  background-color: yellow;
+  border: 10px solid red;
+  padding: 50px;
+  margin: 10px;
+}
+
+.dog{
+  width: 21%;
+  float: left;
+  background-color: grey;
+  border: 10px solid black;
+  padding: 50px;
+  margin: 10px;
+}
+
+.hedge{
+  width: 21%;
+  float: left;
+  background-color: blue;
+  border: 10px solid lime;
+  padding: 50px;
+  margin: 10px;
+}
+
+body{
+  background-color: #cc3300;
+}
